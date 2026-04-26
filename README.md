@@ -106,8 +106,10 @@ All output charts and metrics will be saved to the `output/` folder.
 
 ## Product Link
 
-- **GitHub Repository:**https://github.com/lds-cyx/track2
+- **GitHub Repository:**https://github.com/rena-123-etuidw/acc102-data-project
 - **Jupyter Notebook:** [`stock_analysis.ipynb`](stock_analysis.ipynb)
+- **Demo Video:**https://www.bilibili.com/video/BV17EZcBGEkW/?spm_id_from=333.1387.list.card_archive.click&vd_source=aa6693a5639cb7b678b7d743d0426b0a
+
 
 ## Limitations & Next Steps
 
