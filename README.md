@@ -121,3 +121,19 @@ All output charts and metrics will be saved to the `output/` folder.
 - The period (2020–2025) includes COVID-19 market disruptions, which may
   skew volatility estimates.
 
+# Reflection
+This reflection summarises my experience completing the ACC102 mini assignment, focusing on the process, challenges, learning outcomes, limitations, and professional practice.
+
+The goal of this project was to build a data product that compares the risk and return of three stocks: AAPL, MSFT, and TSLA. I used Python to load, clean, and analyse historical price data, calculate key financial metrics, and create visualisations to communicate insights clearly. This project helped me understand how data analysis can support investment decisions and how to present findings in a structured, user‑friendly way.
+
+During the project, I faced several challenges. The first was handling missing values and ensuring the time series data was consistent across all three stocks. I solved this by checking dates, removing duplicates, and using forward‑fill to handle small gaps. The second challenge was correctly calculating annualised return, volatility, and Sharpe ratio. I double‑checked formulas and tested outputs to ensure accuracy. The third challenge was organising files properly on GitHub and making sure the notebook, README, and data were easy for someone else to follow.
+
+Through this assignment, I strengthened my technical skills in pandas, numpy, and matplotlib. I also learned how to structure a data analysis project, write a clear README, and use GitHub for version control and submission. More importantly, I understood the full workflow of a data product: from defining a problem and sourcing data to cleaning, analysing, visualising, and communicating results. This experience will be useful for future courses and for building a professional portfolio.
+
+I also recognise several limitations of this project. The analysis only includes three stocks, so the findings cannot be generalised to the whole market. The Sharpe ratio used a risk‑free rate of 0 for simplicity, which is not fully realistic. Dividends and stock splits were not adjusted beyond the provided close prices. In future improvements, I could include more stocks, use real risk‑free rates, add dividend adjustments, and build an interactive tool so users can select their own time periods.
+
+### AI Disclosure
+I used AI tools to assist with code structure, README writing, grammar checking, and formula explanations. All data analysis, design decisions, interpretation of results, and project logic were completed independently. I understand how each part of the code works and can explain every step of the project.
+
+Overall, this assignment helped me develop both technical and communication skills required for a data product. I learned how to turn raw data into useful insights and how to present work professionally. This project has given me confidence to explore more advanced data analysis tasks in the future.
+
