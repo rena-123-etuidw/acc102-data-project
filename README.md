@@ -108,7 +108,7 @@ All output charts and metrics will be saved to the `output/` folder.
 
 - **GitHub Repository:**https://github.com/rena-123-etuidw/acc102-data-project
 - **Jupyter Notebook:** [`stock_analysis.ipynb`](stock_analysis.ipynb)
-- **Demo Video:**https://video.xjtlu.edu.cn/Mediasite/Play/d4779222fff64619b721484d14c3bbe71d
+- **Demo Video:**：https://video.xjtlu.edu.cn/Mediasite/Play/d4779222fff64619b721484d14c3bbe71d
 
 ## Limitations & Next Steps
 
